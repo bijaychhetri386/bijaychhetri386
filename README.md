@@ -1,7 +1,4 @@
-<p align="center">
-  <img src=https://raw.githubusercontent.com/bijaychhetri386/bijaychhetri386/refs/heads/main/ChatGPT%20Image%20Mar%2027%2C%202026%2C%2012_41_34%20AM.png />
-" alt="coding animation" width="800"/>
-</p>
+
 <h2 align="center">Hi, I'm Bijay 👋</h2>
 
 <p align="center">
