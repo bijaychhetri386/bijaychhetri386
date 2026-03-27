@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="coding animation" width="800"/>
+  <img src="<img width="1024" height="1536" alt="ChatGPT Image Mar 27, 2026, 12_41_34 AM" src="https://github.com/user-attachments/assets/19409888-6d79-4551-b797-2e73d3093a21" />
+" alt="coding animation" width="800"/>
 </p>
 <h2 align="center">Hi, I'm Bijay 👋</h2>
 
