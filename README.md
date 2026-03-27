@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="coding animation" width="800"/>
+</p>
 <h2 align="center">Hi, I'm Bijay 👋</h2>
 
 <p align="center">
